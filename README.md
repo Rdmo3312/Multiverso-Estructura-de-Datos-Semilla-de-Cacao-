@@ -69,10 +69,3 @@ Es el punto de entrada y demostración del sistema.
 
 ---
 
-## 🚀 Instalación y Uso
-
-1. Clona el repositorio en tu máquina local.
-2. Abre el proyecto en tu IDE de Java favorito (IntelliJ IDEA, Eclipse, VS Code).
-3. Compila y ejecuta el archivo `Main.java`.
-
-Al ejecutarse, la consola mostrará la creación del tejido base de 32 nodos. Posteriormente, calculará el trayecto exacto que un viajero debería tomar, demostrando los saltos secuenciales para llegar de la realidad `0` a la `33`.
