@@ -24,7 +24,7 @@ public class Main {
                 case "1":
                     // Creamos la instancia, lo que dispara la germinación automática
                     multiverso = new SemillaCacao();
-                    System.out.println("\n[!] ¡BOOM! Ha nacido un nuevo multiverso.");
+                    System.out.println("\n[!] Ha nacido un nuevo multiverso.");
                     System.out.println("[!] La semilla tiene " + multiverso.getCantidadUniversos() + " universos interconectados (Nodos 0 al 31).");
                     break;
 
